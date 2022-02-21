@@ -62,8 +62,11 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+## HOW TO SETUP
 <p>Requirement software that I used</p>
-1. Laravel 9.x
-2. PHP 8.0.15
-3. MariaDB or Mysql
-4. Bootstrap (needs internet connection)
+<p>1. Laravel 9.x</p>
+<p>2. PHP 8.0.15</p>
+<p>3. MariaDB or Mysql</p>
+<p>4. Bootstrap (needs internet connection)</p>
+<p>5. for table structure please look at 'table-structure.sql'</p>
