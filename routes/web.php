@@ -1,8 +1,6 @@
 <?php
 use App\Http\Controllers\BookController;
-Route::get('/', function() {
-return view('home');
-});
+Route::get('/', function() { return redirect('/books'); });
 
 Route::get('/books/add', [BookController::class, 'create']);
 
